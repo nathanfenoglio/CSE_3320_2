@@ -1,2 +1,0 @@
-[2021-02-15 09:27:11.358] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/root/linux-4.14.217/my_source/~/.vscode-root/User/snippets'
-[2021-02-15 09:27:51.265] [sharedprocess] [info] Starting to clean up unused language packs.
