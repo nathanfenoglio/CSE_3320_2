@@ -1,0 +1,7 @@
+*.o
+*.cmd
+*.builtin
+*.order
+*vscode*
+
+#.gitignore
