@@ -1,0 +1,4 @@
+[2021-02-15 09:27:11.302] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/root/linux-4.14.217/my_source/.vscode'
+[2021-02-15 09:27:11.639] [renderer1] [error] Network Error: Error: Network Error
+    at e.exports (/snap/code/55/usr/share/code/resources/app/node_modules.asar/tas-client-umd/lib/tas-client-umd.js:1:7511)
+    at XMLHttpRequest.p.onerror (/snap/code/55/usr/share/code/resources/app/node_modules.asar/tas-client-umd/lib/tas-client-umd.js:1:6478)
